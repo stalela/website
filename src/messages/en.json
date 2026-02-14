@@ -1,0 +1,331 @@
+{
+  "Metadata": {
+    "home": {
+      "title": "Stalela — Enterprise technology solutions for African businesses.",
+      "description": "Stalela designs and delivers practical technology solutions for enterprises and growth-stage businesses in South Africa — AI systems, software platforms, automation, and digital experiences built for real operations."
+    },
+    "howItWorks": {
+      "title": "How It Works — Stalela",
+      "description": "Four simple steps from idea to fully registered and compliant South African business with Stalela. Company registration, compliance, and banking made easy."
+    },
+    "pricing": {
+      "title": "Pricing — Stalela",
+      "description": "Simple, transparent pricing for company registration and compliance services with Stalela. Start your South African business today."
+    },
+    "contact": {
+      "title": "Contact Stalela — Business Registration & Compliance Support",
+      "description": "Get in touch with Stalela for business registration and compliance support. Company registration, tax compliance, and banking services for South African SMEs."
+    },
+    "register": {
+      "title": "Register Your Business with Stalela — South African Company Registration",
+      "description": "Start your company registration with Stalela. Fill in your details and we'll handle the rest. Pty Ltd, NPC, CC registration with CIPC."
+    },
+    "services": {
+      "title": "Services — Stalela",
+      "description": "Stalela offers company registration, compliance, tax, banking, B-BBEE, tech services, and more for South African SMEs. Complete business administration support."
+    },
+    "blog": {
+      "title": "Blog — Stalela",
+      "description": "Insights, guides, and news about business registration, compliance, and growing your South African SME."
+    }
+  },
+  "Nav": {
+    "services": "Services",
+    "howItWorks": "How It Works",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "blog": "Blog",
+    "getStarted": "Get started",
+    "ourServices": "Our Services",
+    "mostPopular": "Most popular",
+    "featuredTitle": "Tech & Digital Services",
+    "featuredDescription": "AI solutions, custom software, web and mobile products, and digital execution designed for enterprise use cases.",
+    "learnMore": "Learn more",
+    "viewAllServices": "View all services",
+    "closeMenu": "Close menu",
+    "openMenu": "Open menu"
+  },
+  "Footer": {
+    "tagline": "Enterprise-focused technology solutions for South African businesses — from strategy to delivery.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "services": "Services",
+    "howItWorks": "How It Works",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "contact": "Contact",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "copyright": "© {year} Stalela. All rights reserved."
+  },
+  "HeroSlider": {
+    "getInTouch": "Get in touch",
+    "seeHowItWorks": "See how it works",
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "slides": {
+      "companyRegistration": {
+        "title": "Company Registration",
+        "headline": "Launch and structure\nnew ventures correctly.",
+        "description": "When your solution includes entity setup, we handle registration support so leadership teams can focus on execution.",
+        "ctaText": "See registration support"
+      },
+      "taxCompliance": {
+        "title": "Tax & Compliance",
+        "headline": "Compliance built into\nyour operating stack.",
+        "description": "We align systems and workflows with practical compliance requirements so your teams can scale with fewer surprises.",
+        "ctaText": "See compliance support"
+      },
+      "banking": {
+        "title": "Banking & Finance",
+        "headline": "Operational finance\nwithout friction.",
+        "description": "From documentation to onboarding support, we help businesses reduce delays across banking and finance setup flows.",
+        "ctaText": "Explore finance support"
+      },
+      "certifications": {
+        "title": "Certifications",
+        "headline": "Strengthen your\nmarket credibility.",
+        "description": "We support key certification and membership pathways so your business can unlock larger commercial opportunities.",
+        "ctaText": "View certifications"
+      },
+      "techDigital": {
+        "title": "Tech & Digital",
+        "headline": "From strategy to\nAI-powered execution.",
+        "description": "Stalela sits at the intersection of business strategy and modern engineering — AI solutions, security-conscious software delivery, automation, web, mobile, and digital products built for real enterprise outcomes.",
+        "ctaText": "Explore tech services"
+      }
+    }
+  },
+  "HomePage": {
+    "servicesHeading": "Technology services built for enterprise realities",
+    "servicesSubheading": "We analyse business operations in a specific sector, identify repeatable high-impact opportunities, and deliver practical solutions that can be deployed across similar businesses with speed and consistency.",
+    "servicesImageAlt": "Stalela tech and digital service ecosystem",
+    "viewAllServices": "View all tech and business services",
+    "howItWorksHeading": "How it works",
+    "howItWorksSubheading": "Four steps from business analysis to deployed solution.",
+    "howItWorksImageAlt": "Four-step enterprise technology delivery process",
+    "steps": {
+      "1": {
+        "title": "Analyse a target business context",
+        "description": "We map workflows, pain points, systems, and constraints in a specific business environment."
+      },
+      "2": {
+        "title": "Design a practical solution architecture",
+        "description": "We define the fastest credible solution path — AI, software, automation, integration, or a hybrid model."
+      },
+      "3": {
+        "title": "Build, secure, and deploy",
+        "description": "Our team delivers production-ready implementation with clear delivery milestones and measurable outcomes."
+      },
+      "4": {
+        "title": "Replicate where it creates value",
+        "description": "Once proven, the solution is adapted and rolled out to similar businesses for faster impact."
+      }
+    },
+    "trustImageAlt": "Trust and security indicators",
+    "trust": {
+      "cipc": "Enterprise-ready delivery",
+      "audit": "Security-conscious engineering",
+      "smes": "Proven across SA business contexts",
+      "sa": "African-first execution mindset"
+    },
+    "ctaHeadline": "Ready to scope your next technology move?",
+    "ctaDescription": "Tell us your business context and we will propose a practical, credible solution path.",
+    "ctaText": "Talk to Stalela"
+  },
+  "HowItWorks": {
+    "heading": "How Stalela Works",
+    "description": "From your first form submission to ongoing compliance — here's what to expect with Stalela.",
+    "imageAlt": "Steps from business registration to ongoing compliance",
+    "step": "Step {number}",
+    "steps": {
+      "01": {
+        "title": "Submit your details",
+        "description": "Fill in your company details, director information, and upload the required documents. Stalela's guided form makes it simple — no jargon, no guesswork.",
+        "details": [
+          "Company name and type",
+          "Director and shareholder details",
+          "ID documents and proof of address",
+          "Signed mandate authorising us to act"
+        ]
+      },
+      "02": {
+        "title": "We register your company",
+        "description": "Stalela's team validates your information, prepares the submission, and files with CIPC on your behalf. You get updates at every step.",
+        "details": [
+          "Data validation and name reservation",
+          "CIPC submission and follow-up",
+          "Registration certificate delivery",
+          "MOI preparation and filing"
+        ]
+      },
+      "03": {
+        "title": "We keep you compliant",
+        "description": "Once registered, Stalela sets up your compliance calendar. Annual returns, VAT, PAYE — we track deadlines and help you file on time.",
+        "details": [
+          "Automated compliance calendar",
+          "Deadline reminders via email",
+          "Filing preparation and submission support",
+          "Evidence storage and audit trail"
+        ]
+      },
+      "04": {
+        "title": "You focus on your business",
+        "description": "With registration complete and compliance managed, you can focus on growing your business while Stalela handles the admin.",
+        "details": [
+          "Banking setup support",
+          "Ongoing compliance monitoring",
+          "Document vault for all your records",
+          "Dedicated support when you need it"
+        ]
+      }
+    },
+    "ctaHeadline": "Ready to get started with Stalela?",
+    "ctaDescription": "Register your business in minutes.",
+    "ctaText": "Register your business"
+  },
+  "Pricing": {
+    "heading": "Stalela Pricing — Simple & Transparent",
+    "description": "Choose the Stalela plan that fits your business. No hidden fees.",
+    "imageAlt": "Three pricing tiers for Stalela services",
+    "tiers": {
+      "starter": {
+        "name": "Starter",
+        "price": "R1,500",
+        "description": "Company registration with the essentials.",
+        "features": [
+          "Pty Ltd registration with CIPC",
+          "MOI preparation",
+          "Registration certificate",
+          "Basic compliance calendar",
+          "Email support"
+        ],
+        "ctaText": "Get started"
+      },
+      "growth": {
+        "name": "Growth",
+        "price": "R3,500",
+        "description": "Registration plus ongoing compliance management.",
+        "features": [
+          "Everything in Starter",
+          "Annual return filing",
+          "VAT registration support",
+          "Compliance reminders",
+          "Document vault",
+          "Priority support"
+        ],
+        "ctaText": "Get started"
+      },
+      "managed": {
+        "name": "Managed",
+        "price": "R7,500",
+        "description": "Full-service compliance and admin management.",
+        "features": [
+          "Everything in Growth",
+          "PAYE and UIF setup",
+          "Monthly tax filing support",
+          "Banking setup assistance",
+          "Dedicated account manager",
+          "Full audit trail"
+        ],
+        "ctaText": "Contact us"
+      }
+    },
+    "ctaHeadline": "Not sure which plan is right?",
+    "ctaDescription": "Talk to us and we'll recommend the best option for your business.",
+    "ctaText": "Contact us"
+  },
+  "Contact": {
+    "heading": "Contact Stalela",
+    "description": "Have a question about company registration or compliance? Ready to get started with Stalela? We'd love to hear from you.",
+    "fields": {
+      "name": { "label": "Name", "placeholder": "Your full name" },
+      "email": { "label": "Email", "placeholder": "you@company.co.za" },
+      "phone": { "label": "Phone", "placeholder": "072 000 0000" },
+      "service": { "label": "Service needed" },
+      "message": { "label": "Message", "placeholder": "Tell us about your Stalela needs..." }
+    },
+    "serviceOptions": [
+      "Company Registration",
+      "Company Name / Address Changes",
+      "Annual Return Filing",
+      "SARS Services",
+      "UIF Registration",
+      "Compensation Fund",
+      "B-BBEE Certificates",
+      "Business Bank Accounts",
+      "Domain Name Registration",
+      "Website Development",
+      "Business Email Setup",
+      "Branding & Design",
+      "Information Regulator / POPIA",
+      "Other"
+    ],
+    "submitLabel": "Send message",
+    "info": {
+      "email": { "label": "Email", "value": "hello@stalela.co.za" },
+      "phone": { "label": "Phone", "value": "+27 10 000 0000" },
+      "location": { "label": "Location", "value": "Johannesburg, South Africa" }
+    }
+  },
+  "Register": {
+    "heading": "Register Your Business with Stalela",
+    "description": "Fill in your details below and Stalela's team will get back to you to start the registration process.",
+    "imageAlt": "Start your business registration",
+    "fields": {
+      "fullName": { "label": "Full name", "placeholder": "Your full name" },
+      "email": { "label": "Email", "placeholder": "you@company.co.za" },
+      "phone": { "label": "Phone", "placeholder": "072 000 0000" },
+      "businessName": { "label": "Business name", "placeholder": "Your proposed business name" },
+      "directorsCount": { "label": "Number of directors", "placeholder": "e.g. 2" },
+      "notes": { "label": "Notes", "placeholder": "Anything else we should know..." }
+    },
+    "submitLabel": "Submit registration request",
+    "disclaimer": "By submitting this form, you agree to be contacted about Stalela services. We do not share your information with third parties."
+  },
+  "Services": {
+    "heading": "Stalela Services — Complete Business Administration",
+    "description": "Everything you need to start and run a compliant business in South Africa with Stalela. Browse by category or click any service for a quick overview.",
+    "ctaHeadline": "Not sure what you need?",
+    "ctaDescription": "Get in touch with Stalela and we'll help you figure out the right services for your business.",
+    "ctaText": "Contact Stalela"
+  },
+  "CategoryPage": {
+    "ctaHeadline": "Ready to get started?",
+    "ctaDescription": "Let us handle the admin so you can focus on your business.",
+    "ctaText": "Register your business"
+  },
+  "ServicePage": {
+    "ctaHeadline": "Need help with this service?",
+    "ctaDescription": "Get in touch and we'll guide you through the process.",
+    "ctaText": "Contact us"
+  },
+  "LeadForm": {
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "select": "Select...",
+    "success": "Thank you! We'll be in touch shortly.",
+    "error": "Something went wrong. Please try again."
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "zu": "isiZulu",
+    "af": "Afrikaans",
+    "xh": "isiXhosa",
+    "label": "Language"
+  },
+  "Blog": {
+    "heading": "Blog",
+    "description": "Insights, guides, and news for South African businesses.",
+    "readMore": "Read more",
+    "noPosts": "No posts yet. Check back soon!",
+    "backToBlog": "Back to blog"
+  },
+  "NotFound": {
+    "heading": "Page not found",
+    "description": "Sorry, we couldn't find the page you're looking for on Stalela. It may have been moved or doesn't exist.",
+    "homeLink": "Go home",
+    "servicesLink": "Browse Stalela services"
+  }
+}
